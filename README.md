@@ -10,7 +10,7 @@ sklearn
 bar_chart_race  
 ffmpeg: We followed the instructions in this link: https://superuser.com/questions/624561/install-ffmpeg-on-os-x  
 
-Data needed:
+Data needed:  
 Flights: https://zenodo.org/record/6078268/files/flightlist_20200301_20200331.csv.gz?download=1  
 Airlines: http://www.lsv.fr/~sirangel/teaching/dataset/airlines.txt  
 Airports: http://www.lsv.fr/~sirangel/teaching/dataset/airports.txt  
