@@ -2,7 +2,7 @@
 
 ## Project Overview
 - **Title:** Air Travel Pre-Pandemic vs. Post-Pandemic
-- **Author:** Mitchell Breeden
+- **Author:** Mitchell Breeden & Brian Monter
 - **Course:** AIT-580-007
 - **Institution:** George Mason University
 - **Date:** March 9, 2022
